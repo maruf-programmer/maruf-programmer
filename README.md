@@ -1,7 +1,7 @@
 <!-- PROFILE VIEWS -->
 <!--
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=texnoflow-droid&color=3776AB&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=maruf-programmer&color=3776AB&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 -->
 
@@ -70,27 +70,27 @@ I am a backend-focused developer specializing in Python and the Django framework
 # 🏆 GitHub Stats & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&margin-w=15&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maruf-programmer&theme=radical&no-bg=true&margin-w=15&column=6" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-programmer&theme=radical&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maruf-programmer&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-programmer&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-programmer&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -98,11 +98,11 @@ I am a backend-focused developer specializing in Python and the Django framework
 # 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake.svg">
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
