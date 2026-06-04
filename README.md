@@ -25,7 +25,7 @@ I am a backend-focused developer specializing in Python and the Django framework
 
 - 🚀 **Main Focus:** Python Backend & AI Agents
 - 🎯 **Career Goal:** Engineering roles at global tech firms
-- 📢 **Channel:** [TECNOTIME](https://t.me/Tecno_Flow)
+- 📢 **Channel:** [TECNOTIME](https://t.me/maruf_programm)
 
 ---
 
