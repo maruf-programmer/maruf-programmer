@@ -133,6 +133,9 @@ I am a backend-focused developer specializing in Python and the Django framework
 > **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code and scalability.
 
 ---
+<div align="center">
+  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify" width="350px" />
+</div>
 
 
 <div align="center">
