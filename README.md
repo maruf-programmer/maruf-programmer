@@ -14,15 +14,11 @@
 
 # 👨‍💻 About Me
 
-<details>
-  <summary><b>📖 More About Me</b></summary>
-  <br/>
-  <ul>
-    <li>🚀 <b>Core Focus:</b> Python Backend (Django, FastAPI) and AI integrations.</li>
-    <li>🎯 <b>Career Goal:</b> Building high-performance, scalable system architectures.</li>
-    <li>📢 <b>My Channel:</b> Tech reviews and insights on <a href="https://t.me/maruf_programm">TECNOTIME</a>.</li>
-  </ul>
-</details>
+### 📖 More About Me
+
+* 🚀 **Core Focus:** Python Backend (Django, FastAPI) and AI integrations.
+* 🎯 **Career Goal:** Building high-performance, scalable system architectures.
+* 📢 **My Channel:** Tech reviews and insights on [TECNOTIME](https://t.me/maruf_programm).s
 # 💡 Current Focus
 
 <p align="left">
