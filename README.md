@@ -133,13 +133,7 @@ I am a backend-focused developer specializing in Python and the Django framework
 > **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code and scalability.
 
 ---
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=maruf-programmer&theme=dark" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-programmer&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maruf-programmer&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f0fff4&height=220&section=footer&text=Hamma%20suvlar%20ham%20loyqa%20bo'lavermaydi&textBg=false&fontSize=25&animation=fadeIn&fontColor=0a2f1c" width="100%" />
