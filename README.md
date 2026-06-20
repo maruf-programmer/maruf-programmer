@@ -14,16 +14,15 @@
 
 # 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3776AB&width=435&lines=Technology+enthusiast;Focusing+on+Python+Backend;Building+AI-powered+solutions;Passionate+about+scalability" alt="Typing SVG" />
-
-I am a backend-focused developer specializing in Python and the Django framework. I am passionate about independent thinking and leveraging cutting-edge AI tools.
-
-- 🚀 **Main Focus:** Python Backend & AI Agents
-- 🎯 **Career Goal:** Engineering roles at global tech firms
-- 📢 **Channel:** [TECNOTIME](https://t.me/maruf_programm)
-
----
-
+<details>
+  <summary><b>📖 More About Me</b></summary>
+  <br/>
+  <ul>
+    <li>🚀 <b>Core Focus:</b> Python Backend (Django, FastAPI) and AI integrations.</li>
+    <li>🎯 <b>Career Goal:</b> Building high-performance, scalable system architectures.</li>
+    <li>📢 <b>My Channel:</b> Tech reviews and insights on <a href="https://t.me/maruf_programm">TECNOTIME</a>.</li>
+  </ul>
+</details>
 # 💡 Current Focus
 
 <p align="left">
