@@ -1,9 +1,4 @@
-<!-- PROFILE VIEWS -->
-<!--
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=maruf-programmer&color=3776AB&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
--->
+
 
 <!-- HEADER -->
 <div align="center">
