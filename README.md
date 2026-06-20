@@ -134,7 +134,7 @@ I am a backend-focused developer specializing in Python and the Django framework
 
 ---
 <div align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify" width="350px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-programmer&theme=dracula" width="100%" />
 </div>
 
 
