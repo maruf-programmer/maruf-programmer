@@ -93,6 +93,10 @@ I am a backend-focused developer specializing in Python and the Django framework
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruf-programmer&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-programmer&theme=dracula" width="100%" />
+</div>
+
 ---
 
 # 🐍 GitHub Contribution Snake
@@ -133,9 +137,6 @@ I am a backend-focused developer specializing in Python and the Django framework
 > **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code and scalability.
 
 ---
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf-programmer&theme=dracula" width="100%" />
-</div>
 
 
 <div align="center">
