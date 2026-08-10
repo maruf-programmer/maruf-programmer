@@ -6,22 +6,7 @@
 </div>
 <br/>
 
-<div align="center">
 
-### 🎵 My Favorite Playlist • Sevimli Musiqalarim
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/bars.gif" width="30" />
-
-| № | 🎧 Qo'shiq Nomi | 🎙 Ijrochi | ⏱ Davomiyligi | ▶️ Tinglash |
-| :---: | :--- | :--- | :---: | :---: |
-| **01** | **Interstellar Theme** | *Hans Zimmer* | `04:36` | [![Play](https://youtu.be/c23inpfpSxc?si=gWYhtOn099HH4vEu) |
-| **02** | **Mockingbird** | *Eminem* | `04:10` | [![Play](https://img.shields.io/badge/YouTube-Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) |
-| **03** | **Experience** | *Ludovico Einaudi* | `05:15` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
-| **04** | **Starboy** | *The Weeknd* | `03:50` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
-| **05** | **Memory Reboot** | *VOJ, Narvent* | `03:20` | [![Play](https://img.shields.io/badge/YouTube-Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) |
-
-</div>
-
-<br/>
 
 <!-- QUOTE SECTION -->
 <div align="center">
