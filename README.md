@@ -21,7 +21,7 @@
 
 * 🚀 **Core Focus:** Python Backend (Django, FastAPI) and AI integrations.
 * 🎯 **Career Goal:** Building high-performance, scalable system architectures.
-* 📢 **My Channel:** Tech reviews and insights on [TECNOTIME](https://t.me/maruf_programm).s
+* 📢 **My Channel:** Tech reviews and insights on [Nova_Edu](https://t.me/Nova_EduUz).s
 # 💡 Current Focus
 
 <p align="left">
