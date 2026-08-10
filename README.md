@@ -14,7 +14,7 @@
 <td align="center" style="background: linear-gradient(135deg, #0d1b2a, #1b263b, #415a77); border-radius: 15px; padding: 25px; border: 1px solid #415a77; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);">
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/bars.gif" width="28" height="20" />
+  <img src="[https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/bars.gif](https://open.spotify.com/track/6XyrUNFl5Zq4UPXSzcwvav?si=192c0e7536a4452a)" width="28" height="20" />
   &nbsp;&nbsp;<b><font size="4" color="#FFFFFF">Interstellar Theme</font></b>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/bars.gif" width="28" height="20" />
   <br/>
