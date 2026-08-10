@@ -13,7 +13,7 @@
 
 | № | 🎧 Qo'shiq Nomi | 🎙 Ijrochi | ⏱ Davomiyligi | ▶️ Tinglash |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Interstellar Theme** | *Hans Zimmer* | `04:36` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
+| **01** | **Interstellar Theme** | *Hans Zimmer* | `04:36` | [![Play](https://youtu.be/c23inpfpSxc?si=gWYhtOn099HH4vEu) |
 | **02** | **Mockingbird** | *Eminem* | `04:10` | [![Play](https://img.shields.io/badge/YouTube-Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) |
 | **03** | **Experience** | *Ludovico Einaudi* | `05:15` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
 | **04** | **Starboy** | *The Weeknd* | `03:50` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
