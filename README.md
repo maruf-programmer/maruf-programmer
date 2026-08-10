@@ -4,6 +4,24 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=I'm%20Maruf!%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Python%20Backend%20Developer%20|%20AI%20Coding%20Expert&descAlign=50&descAlignVertical=170" width="100%"/>
 </div>
+<br/>
+
+<div align="center">
+
+### 🎵 My Favorite Playlist • Sevimli Musiqalarim
+<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/bars.gif" width="30" />
+
+| № | 🎧 Qo'shiq Nomi | 🎙 Ijrochi | ⏱ Davomiyligi | ▶️ Tinglash |
+| :---: | :--- | :--- | :---: | :---: |
+| **01** | **Interstellar Theme** | *Hans Zimmer* | `04:36` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
+| **02** | **Mockingbird** | *Eminem* | `04:10` | [![Play](https://img.shields.io/badge/YouTube-Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) |
+| **03** | **Experience** | *Ludovico Einaudi* | `05:15` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
+| **04** | **Starboy** | *The Weeknd* | `03:50` | [![Play](https://img.shields.io/badge/Spotify-Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com) |
+| **05** | **Memory Reboot** | *VOJ, Narvent* | `03:20` | [![Play](https://img.shields.io/badge/YouTube-Play-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) |
+
+</div>
+
+<br/>
 
 <!-- QUOTE SECTION -->
 <div align="center">
