@@ -26,7 +26,8 @@
 ### 📖 CERTIFICAT
 
 [CERTIFICAT 1](https://github.com/maruf-programmer/certifikat/blob/main/photo_2026-09-06_09-53-30.jpg)
-[[CERTIFICAT 2](https://github.com/maruf-programmer/certifikat/blob/main/photo_2026-09-06_09-53-30.jpg))
+<br/>
+[CERTIFICAT 2](https://github.com/maruf-programmer/certifikat/blob/main/photo_2026-09-06_09-53-39.jpg
 
 <p align="left">
   <img src="https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white" />
