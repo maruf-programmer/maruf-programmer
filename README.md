@@ -24,6 +24,10 @@
 * 📢 **My Channel:** Tech reviews and insights on [Nova_Edu](https://t.me/Nova_EduUz).s
 # 💡 Current Focus
 
+### 📖 CERTIFICAT
+
+[CERTIFICAT](https://github.com/maruf-programmer/certifikat)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
