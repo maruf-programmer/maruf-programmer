@@ -1,12 +1,8 @@
-
-
 <!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=I'm%20Maruf!%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Python%20Backend%20Developer%20|%20AI%20Coding%20Expert&descAlign=50&descAlignVertical=170" width="100%"/>
 </div>
 <br/>
-
-
 
 <!-- QUOTE SECTION -->
 <div align="center">
@@ -21,7 +17,10 @@
 
 * 🚀 **Core Focus:** Python Backend (Django, FastAPI) and AI integrations.
 * 🎯 **Career Goal:** Building high-performance, scalable system architectures.
-* 📢 **My Channel:** Tech reviews and insights on [Nova_Edu](https://t.me/Nova_EduUz).s
+* 📢 **My Channel:** Tech reviews and insights on [Nova_Edu](https://t.me/Nova_EduUz).
+
+---
+
 # 💡 Current Focus
 
 ### 📖 CERTIFICAT
@@ -45,11 +44,8 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" height="42" />
-
 <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=airplay&logoColor=white" height="42" />
-
 <img src="https://img.shields.io/badge/Trae%20AI-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white" height="42" />
-
 <img src="https://img.shields.io/badge/Qoder-FF4500?style=for-the-badge&logo=lightning&logoColor=white" height="42" />
 
 </div>
@@ -80,7 +76,6 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maruf-programmer&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-programmer&layout=compact&theme=radical&hide_border=true" />
 </div>
 
@@ -100,9 +95,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake-dark.svg">
-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake.svg">
-
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maruf-programmer/maruf-programmer/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
@@ -124,7 +117,7 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/" target="_blank">
+<a href="https://linkedin.com/in/maruf-programmer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -133,12 +126,8 @@
 > [!TIP]
 > **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code and scalability.
 
----
-<!-- ABOUT ME SARLAVHASI UCHUN -->
-<img src="https://gachips.vercel.app/api/neon?text=About%20Me&color=3776AB&size=30" alt="About Me" />
+<br/>
 
-<!-- TECH STACK SARLAVHASI UCHUN -->
-<img src="https://gachips.vercel.app/api/neon?text=Tech%20Stack&color=3776AB&size=30" alt="Tech Stack" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f0fff4&height=220&section=footer&text=Hamma%20suvlar%20ham%20loyqa%20bo'lavermaydi&textBg=false&fontSize=25&animation=fadeIn&fontColor=0a2f1c" width="100%" />
 </div>
