@@ -17,7 +17,7 @@
 
 * 🚀 **Core Focus:** Python Backend (Django, FastAPI) and AI integrations.
 * 🎯 **Career Goal:** Building high-performance, scalable system architectures.
-* 📢 **My Channel:** Tech reviews and insights on [NovaAcademy](https://t.me/NovaAcademiy).
+* 📢 **My Channel:**  [NovaAcademy](https://t.me/NovaAcademiy).
 
 ---
 ### 📖 CERTIFICAT
